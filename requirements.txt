@@ -1,3 +1,5 @@
 paddlepaddle
 paddleocr>=2.0.1
 streamlit
+pandas==2.2.2
+tokenizers==0.13.3
