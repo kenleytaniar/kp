@@ -1,3 +1,4 @@
+--only-binary pandas
 paddlepaddle
 paddleocr>=2.0.1
 streamlit
